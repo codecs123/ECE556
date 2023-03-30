@@ -1,0 +1,43 @@
+*Admin Panel
+	*LOG In
+		*USERNAME
+			*Password
+				*Add Admin
+					*Add username
+					*Add password
+					*Add Name
+					*Add session
+				Remove Admin
+					list of username with name
+					remove
+				admin details
+				Remove Student
+				Exit
+	*List of Admin
+		*press any key(exit)
+	*Exit
+*Student
+	*Log In
+		StudentCode
+			Student Password
+				Details
+					View
+					Add
+					Remove
+				ChangePassword
+					NewPassword
+						ConfirmPassword
+						Exit
+					Exit
+				Exit
+			Exit
+		Exit
+	*Registration
+		Add Student
+			AddPassword
+				ConfirmPassword
+				Exit
+			Exit
+		Exit
+	*Exit
+*Exit
